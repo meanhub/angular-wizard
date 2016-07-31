@@ -16,6 +16,6 @@
   "ignore": [
     "node_modules",
     "components",
-    "lib" 
+    "lib"  
   ]
 }
