@@ -79,7 +79,7 @@ module.exports = function(grunt) {
       less_files: {
         files: [
           { 
-            src: [ 'src/angular-wizard.less' ],
+            src: [ 'src/angular-wizard.less', 'src/done-transparent.png' ],
             dest: '<%= dirs.dest %>',
             cwd: '.',
             expand: true,
