@@ -55,7 +55,7 @@ Now, in some HTML for a controller, you can just add a wizard as follows:
 
 This will look like the following when you're in the second step:
 
-[![Looks like](https://github.com/meanhub/angular-wizard-stylish/master/example/sample.png)](https://github.com/meanhub/angular-wizard-stylish/master/example/sample.png)
+[![Looks like](https://github.com/meanhub/angular-wizard-stylish/blob/master/example/sample.png)](https://github.com/meanhub/angular-wizard-stylish/blob/master/example/sample.png)
 
 Let's go step by step to see how this works.
 
